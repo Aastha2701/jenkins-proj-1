@@ -115,6 +115,9 @@ Now Update your machine
 
 ```
 sudo su
+```
+
+```
 apt update
 ```
 
