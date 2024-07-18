@@ -52,8 +52,11 @@ http://(ec2-instance-public-ip-address):8080
 **Note: ** By default, Jenkins will not be accessible to the external world due to the inbound traffic restriction by AWS. Open port 8080 in the inbound traffic rules as show below.
 
 - EC2 > Instances > Click on <Instance-ID>
+
 - In the bottom tabs -> Click on Security
+  
 - Security groups
+  
 - Add inbound traffic rules as shown in the image (you can just allow TCP 8080 as well, in my case, I allowed `All traffic`).
 
 <img width="1187" alt="Screenshot 2023-02-01 at 12 42 01 PM" src="https://user-images.githubusercontent.com/43399466/215975712-2fc569cb-9d76-49b4-9345-d8b62187aa22.png">
@@ -68,6 +71,8 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
             
 - Enter the Administrator password
+
+Now Install Suggested Plug-ins
 
 # 4. start nodeapp project
 
