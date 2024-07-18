@@ -74,16 +74,14 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 Now Install Suggested Plug-ins
 
-# 4. start nodeapp project
+# 4. Start Project
 
-goto jenkins dashboard
+Goto jenkins dashboard
 
-click create new item
+Click create new item = my-first-freestyle-project
 
-select pipeline project
+Select freestyle project
 
-mention github project section : your github repo url
-
-pipeline : type or use projects syntax
+Mention github project section : (your github repo url)
 
 build now✌️✌️✌️✌️
