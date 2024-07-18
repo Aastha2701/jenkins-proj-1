@@ -75,7 +75,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 Now Install Suggested Plug-ins
 
 
-# 4. Start Project
+## 4. Start Project
 
 Goto jenkins dashboard
 
@@ -95,6 +95,18 @@ https://github.com/itscloudevops/freestyle-jenkins.git
 
 Source Code Management = git  , Again mention github repo url
 
-Credentials = generate credentials
+Credentials = generate credentials  , Apply and Save
 
-build now✌️✌️✌️✌️
+Now Click on Build Now ✌️✌️✌️✌️
+
+
+## 5. Launch Your App.
+
+Go to Console Output and copy 👇
+
+/var/lib/jenkins/workspace/my-first-freestyle-project
+
+
+```
+cd /var/lib/jenkins/workspace/my-first-freestyle-project
+```
