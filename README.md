@@ -9,7 +9,7 @@
 - key pair :- jenkins-key.pem
 - Launch instances
 
-## 2. Connect EC2 Instance
+## 2. Connect EC2 Instance & Install Jenkins
 
 #### Run the below commands to install Java and Jenkins
 
@@ -27,7 +27,7 @@ java -version
 ```
 
 Now, you can proceed with installing Jenkins
-## YOU CAN FOLLOW : https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+##### YOU CAN FOLLOW : https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 
 ```
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
