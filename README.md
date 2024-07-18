@@ -74,11 +74,16 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 Now Install Suggested Plug-ins
 
+
 # 4. Start Project
 
 Goto jenkins dashboard
 
-Click create new item = my-first-freestyle-project
+Click create new item 
+
+```
+my-first-freestyle-project
+```
 
 Select freestyle project
 
