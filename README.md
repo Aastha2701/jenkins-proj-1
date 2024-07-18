@@ -90,7 +90,7 @@ Select freestyle project ---> ok
 Mention github project section
 
 ```
-https://github.com/itscloudevops/freestyle-jenkins.git)
+https://github.com/itscloudevops/freestyle-jenkins.git
 ```
 
 Source Code Management = git  , Again mention github repo url
