@@ -144,3 +144,7 @@ Finallllly Expose Your APPLICATION Globally🚀⛳😊🌏
 ```
 node app.js
 ```
+
+##### Now Access Your App.
+
+copy your instance public-ip:8000
