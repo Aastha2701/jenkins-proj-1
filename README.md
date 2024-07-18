@@ -9,8 +9,9 @@
 - key pair :- jenkins-key.pem
 - Launch instances
 
+## 2. Connect EC2 Instance
 
-### Run the below commands to install Java and Jenkins
+#### Run the below commands to install Java and Jenkins
 
 Install Java
 
