@@ -100,7 +100,7 @@ Credentials = generate credentials  , Apply and Save
 Now Click on Build Now ✌️✌️✌️✌️
 
 
-## 5. Launch Your App.
+## 5. Launch Your App. 🌏
 
 Go to Console Output and copy 👇
 
@@ -109,4 +109,23 @@ Go to Console Output and copy 👇
 
 ```
 cd /var/lib/jenkins/workspace/my-first-freestyle-project
+```
+
+Now Update your machine
+
+```
+sudo su
+apt update
+```
+
+Now Install nodejs
+
+```
+apt install nodejs -y
+```
+
+Now Install NPM
+
+```
+apt install npm -y
 ```
