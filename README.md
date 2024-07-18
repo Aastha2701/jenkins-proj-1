@@ -152,7 +152,7 @@ copy your instance public-ip:8000
 
 ## 6. Now Set-up Jenkins-Github Automation
 
-### A. Jenkins settings
+#### A. Jenkins settings
 
 Go to Jenkins Dashboard  --->  Click on Manage Jenkins  --->  Click Plug-ins   --->  Available Plug-ins
 
@@ -170,4 +170,20 @@ Go to again Dashboard  --->  Select your project   --->  Click on Configure  ---
 Select  " GitHub hook trigger for GITScm polling "  ----->  Save & Apply
 
 
-### B. GitHub settings
+#### B. GitHub settings
+
+Go to GitHub ---->  Click on Your Repository   ----->  Click on Settings  ---->  Go to Webhooks
+
+Add Webhook   --->  Payload URL = mention your jenkins url/github-webhook/
+
+Content type = application/json
+
+Add Webhook 
+
+
+##### Now Change your code anything to check automation process is working or not
+
+copy your instance public-ip:8000
+
+
+===========================END=========================================
