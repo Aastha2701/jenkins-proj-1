@@ -85,8 +85,16 @@ Click create new item
 my-first-freestyle-project
 ```
 
-Select freestyle project
+Select freestyle project ---> ok
 
-Mention github project section : (your github repo url)
+Mention github project section
+
+```
+https://github.com/itscloudevops/freestyle-jenkins.git)
+```
+
+Source Code Management = git  , Again mention github repo url
+
+Credentials = generate credentials
 
 build now✌️✌️✌️✌️
