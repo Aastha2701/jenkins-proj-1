@@ -148,3 +148,16 @@ node app.js
 ##### Now Access Your App.
 
 copy your instance public-ip:8000
+
+
+## 6. Now Set-up Jenkins-Github Automation
+
+Go to Jenkins Dashboard  --->  Click on Manage Jenkins  --->  Click Plug-ins   --->  Available Plug-ins
+
+Install below Plug-ins👇
+
+```
+github integration
+```
+
+  - Restart Jenkins when installation is complete and no jobs are running
