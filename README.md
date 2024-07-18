@@ -51,7 +51,7 @@ http://(ec2-instance-public-ip-address):8080
 
 **Note: ** By default, Jenkins will not be accessible to the external world due to the inbound traffic restriction by AWS. Open port 8080 in the inbound traffic rules as show below.
 
-- EC2 > Instances > Click on <Instance-ID>
+- EC2 > Instances > Click on (Instance-ID)
 
 - In the bottom tabs -> Click on Security
   
