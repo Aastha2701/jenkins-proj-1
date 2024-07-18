@@ -161,3 +161,8 @@ github integration
 ```
 
   - Restart Jenkins when installation is complete and no jobs are running
+
+
+Go to again Dashboard  --->  Select your project   --->  Click on Configure  ---->  Click on Build Trigger
+
+Select  " GitHub hook trigger for GITScm polling "
