@@ -132,3 +132,15 @@ Now Install NPM
 ```
 apt install npm -y
 ```
+
+Now Set-up NPM
+
+```
+npm install
+```
+
+Finallllly Expose Your APPLICATION Globally🚀⛳😊🌏
+
+```
+node app.js
+```
