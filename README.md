@@ -152,6 +152,8 @@ copy your instance public-ip:8000
 
 ## 6. Now Set-up Jenkins-Github Automation
 
+### A. Jenkins settings
+
 Go to Jenkins Dashboard  --->  Click on Manage Jenkins  --->  Click Plug-ins   --->  Available Plug-ins
 
 Install below Plug-ins👇
@@ -165,4 +167,7 @@ github integration
 
 Go to again Dashboard  --->  Select your project   --->  Click on Configure  ---->  Click on Build Trigger
 
-Select  " GitHub hook trigger for GITScm polling "
+Select  " GitHub hook trigger for GITScm polling "  ----->  Save & Apply
+
+
+### B. GitHub settings
